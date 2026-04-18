@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Colorado, US",
+  "export_job_id": "08096adc-259d-4fcf-a8a2-199bcbde8758",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 376245,
+  "location_name": "Colorado",
+  "location_type": "state",
+  "repo_name": "the-hhi-monopoly-index-for-colorado-us-sample-376245",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/376245/beamstation_376245_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 41,
+  "sample_sha256": "cab6409c2bb28c08225ee44566aa1e4c1a74de24866b5e5d64467bedde03c49c",
+  "sample_size_bytes": 176413,
+  "total_records": 410,
+  "updated_at": "2026-04-15T02:00:55.613816+00:00"
+}
