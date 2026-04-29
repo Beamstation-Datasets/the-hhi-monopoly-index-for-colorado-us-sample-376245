@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Colorado, US
 
-> Free BeamStation sample export with 30 rows and masked direct-contact fields.
+> Free BeamStation sample export with 39 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `376245` |
 | Location | Colorado |
 | Category | Restaurants |
-| Full dataset size | 307 records |
-| Free sample size | 30 records (9.77%) |
-| Last export | 2026-04-22T06:54:05.244294+00:00 |
+| Full dataset size | 397 records |
+| Free sample size | 39 records (9.82%) |
+| Last export | 2026-04-29T08:50:53.275126+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-colorado-us-sample-376245/releases/download/sample-latest/beamstation_376245_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
